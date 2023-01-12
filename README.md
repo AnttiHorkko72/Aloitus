@@ -1,0 +1,2 @@
+# Aloitus
+Ensimmäiset harjoittukset
